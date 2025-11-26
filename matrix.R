@@ -1,0 +1,12 @@
+m1<-matrix(1:9,nrow=3,ncol=3,byrow=1)
+m1
+m2<-matrix(10:18,nrow=3,ncol=3,byrow=1)
+m2
+m3<-m1+m2
+m3
+m3<-m2-m1
+m3
+m3<-m1*m2
+m3
+m4<-m2/m1
+m4
